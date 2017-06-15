@@ -24,19 +24,4 @@ module.exports = {
 	getGeoLocation
 }
 
-/*{
-  "name": "myweather",
-  "version": "0.0.0",
-  "private": true,
-  "dependencies": {
-    "express": "^4.15.3",
-    "request": "^2.81.0",
-    "yargs": "^8.0.1",
-    "body-parser": "~1.17.1",
-  //  "cookie-parser": "~1.4.3",
-  //  "debug": "~2.6.3",
-  //  "jade": "~1.11.0",
-  //  "morgan": "~1.8.1",
-    "serve-favicon": "~2.4.2"
-  }
-}*/
+
