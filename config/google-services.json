@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "346006474549",
+    "firebase_url": "https://reminder-65597.firebaseio.com",
+    "project_id": "reminder-65597",
+    "storage_bucket": "reminder-65597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346006474549:android:de27b890db5c375b",
+        "android_client_info": {
+          "package_name": "com.art.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346006474549-fudl3chchpkkqrjrqrce018hhjsj1r28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01y1KAyQsKkMjgxSzRznEBo48eiujc50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
