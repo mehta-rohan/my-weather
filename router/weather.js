@@ -31,5 +31,9 @@ router.post('/',(request,response,next)=> {
 	showWeather(request.body.address,response);
 });
 
+router.get('/about',(request,response,next)=> {
+	//showWeather(request.body.address,response);
+	response.send(request.status);
+});
 
 module.exports = router; 

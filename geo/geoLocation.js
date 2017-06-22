@@ -1,5 +1,6 @@
 var request = require('request');
 var key = require('../config/config');
+//
 var getGeoLocation = function(address,callback){
 	request({
 		url:key.googleAPI+address,
@@ -20,8 +21,6 @@ var getGeoLocation = function(address,callback){
 	);
 };
 
-module.exports = {
-	getGeoLocation
-}
+module.exports = {getGeoLocation}
 
 
