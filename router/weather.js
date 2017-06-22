@@ -33,7 +33,7 @@ router.post('/',(request,response,next)=> {
 
 router.get('/about',(request,response,next)=> {
 	//showWeather(request.body.address,response);
-	response.send(request.status);
+	response.send("200");
 });
 
 module.exports = router; 
