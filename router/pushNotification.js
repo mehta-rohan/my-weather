@@ -19,7 +19,7 @@ var payload = {
 };
 
 router.get('/',(req,res,next)=>{
-	console.log(admin);
+	//console.log(admin);
 
 	admin.messaging().sendToDevice(registrationToken, payload)
 		  .then(function(response) {
